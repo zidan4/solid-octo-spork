@@ -1,6 +1,5 @@
 # solid-octo-spork
 
-Cyber Security
+Cyber Security Project.
 
-
-Reverse Engineering with Assembly
+Reverse Engineering with Assembly.
